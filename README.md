@@ -2,7 +2,8 @@
 
 <img src="https://github.com/philliprognerud/Reddit-Clone/blob/master/images/iyDM8pl7dX.gif" align="center" style="max-width:100%;" >
 
-Created a clone of Reddit built on the Django framework and bootstrap. Site is fully functional and any user can sign up for an account, login, create posts, upvote and downvote posts.
+## Overview
+Created a clone of Reddit built on the Django framework and bootstrap. Site is fully functional and any user can sign up for an account, login, create posts, upvote and downvote posts. 
 
 ## Getting Started
 
@@ -50,26 +51,6 @@ Command: pip install pillow
 ```
 
 Once everything here has been properly installed, you should be able to deploy this website on your machine.
-
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
 
 ## Deployment
 
