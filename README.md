@@ -17,7 +17,7 @@ Python 3.4 and up. We will be using modules such as pip, virtualenv, and Django.
 
 ### Installing
 
-Here is how to get your development envionment up and running with the dependencies.
+Here is how to get your development environment up and running with the dependencies.
 
 1) Install Python.
 
