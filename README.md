@@ -1,8 +1,5 @@
 # Reddit-Clone
-Created a clone of Reddit built on the Django framework and bootstrap
-# Project Title
-
-One Paragraph of project description goes here
+Created a clone of Reddit built on the Django framework and bootstrap. Site is fully functional and any user can sign up for an account, login, create posts, upvote and downvote posts.
 
 ## Getting Started
 
@@ -10,10 +7,11 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
+Python 3.4 and up. We will be using modules such as pip, virtualenv, and Django. 
 
 ```
-Give examples
+C:\Windows\System32>pip -V
+pip 9.0.1 from c:\users\phillip rognerud\appdata\local\programs\python\python36-32\lib\site-packages (python 3.6)
 ```
 
 ### Installing
