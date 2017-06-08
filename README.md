@@ -1,6 +1,6 @@
 <h1 align="center"><strong>Reddit Clone</strong></h1>
 
-<img src="https://github.com/philliprognerud/Reddit-Clone/blob/master/images/iyDM8pl7dX.gif" align="center" style="border-radius: 20px; box-shadow: 10px 10px 5px #888888;" >
+<img src="https://github.com/philliprognerud/Reddit-Clone/blob/master/images/iyDM8pl7dX.gif" align="center" >
 
 <h2>Overview</h2>
 
@@ -55,7 +55,19 @@ Once everything here has been properly installed, you should be able to deploy t
 
 ## Deployment
 
-Add additional notes about how to deploy this on a live system
+In order to deploy this application. Have the repo on your desktop ready to use. Open up the terminal and navigate to the working directory of the repo. Follow the commands below for your system. 
+
+This is for windows 10 systems:
+```
+Command: .\venv\scripts\activate
+(venv):  python manage.py runserver
+```
+
+This is for Mac/Linux systems:
+```
+Command: source /venv/scripts/activate
+(venv):  python3 manage.py runserver
+```
 
 ## Built With
 
