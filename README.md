@@ -3,7 +3,7 @@ Created a clone of Reddit built on the Django framework and bootstrap. Site is f
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+Get this project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
 ### Prerequisites
 
@@ -14,26 +14,40 @@ Python 3.4 and up. We will be using modules such as pip, virtualenv, and Django.
 
 Here is how to get your development envionment up and running with the dependencies.
 
-1) install Python.
+1) Install Python.
 
 ```
 https://www.python.org/
 ```
 
-2) open terminal and type the command below. Result should look similar to mine.
+2) Open terminal and type the command below. Result should look similar.
 
 ```
-pip -V
-Result: pip 9.0.1 from c:\users\phillip rognerud\appdata\local\programs\python\python36-32\lib\site-packages (python 3.6)
+Command: pip -V
+Result:  pip 9.0.1 from c:\users\...\python\python36-32\lib\site-packages (python 3.6)
 ```
 
-3) open terminal and type the command below. Result should look similar to mine.
+3) Install Django! Run the command below.
 
 ```
-pip -V
-Result: pip 9.0.1 from c:\users\phillip rognerud\appdata\local\programs\python\python36-32\lib\site-packages (python 3.6)
+Command: pip install django
 ```
-End with an example of getting some data out of the system or using it for a little demo
+
+4) Check Django install is good.
+
+```
+Command: python
+>>> import django
+>>> print(django.get_version())
+```
+
+4) Installing other dependecies.
+
+```
+Command: pip install pillow
+```
+
+Once everything here has been properly installed, you should be able to deploy this website on your machine.
 
 ## Running the tests
 
