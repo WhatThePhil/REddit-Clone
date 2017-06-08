@@ -72,12 +72,8 @@ Command: source /venv/scripts/activate
 ## Built With
 
 * [Django](https://www.djangoproject.com/) - The web framework used
-* [Atom](https://atom.io/) - Development Environment
 * [Python3](https://www.python.org/) - Primary language
-
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
+* [Atom](https://atom.io/) - Development Environment
 
 
 ## Authors
