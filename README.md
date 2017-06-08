@@ -1,10 +1,10 @@
-<h1 align="center">Reddit Clone
-  <img src="https://github.com/philliprognerud/Reddit-Clone/blob/master/images/ukpm7qK.jpg" align="center" style="max-width:50%;" >
-</h1>
+<h1 align="center">Reddit Clone</h1>
 
 <img src="https://github.com/philliprognerud/Reddit-Clone/blob/master/images/iyDM8pl7dX.gif" align="center" style="max-width:100%;" >
 
-## Overview
+<h2>
+  <img src="https://github.com/philliprognerud/Reddit-Clone/blob/master/images/ukpm7qK.jpg" align="center" style="max-width:150px" >
+</h2>
 Created a clone of Reddit built on the Django framework and bootstrap. Site is fully functional and any user can sign up for an account, login, create posts, upvote and downvote posts. 
 
 ## Getting Started
