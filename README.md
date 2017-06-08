@@ -1,6 +1,6 @@
 <h1 align="center">Reddit Clone</h1>
 
-![](http://www.reactiongifs.us/wp-content/uploads/2013/10/nuh_uh_conan_obrien.gif)
+<img src="https://github.com/philliprognerud/Reddit-Clone/blob/master/images/iyDM8pl7dX.gif" align="center">
 
 Created a clone of Reddit built on the Django framework and bootstrap. Site is fully functional and any user can sign up for an account, login, create posts, upvote and downvote posts.
 
