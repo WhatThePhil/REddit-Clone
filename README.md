@@ -1,5 +1,5 @@
 <h1 align="center">Reddit Clone
-  <img src="https://github.com/philliprognerud/Reddit-Clone/blob/master/images/iyDM8pl7dX.gif" align="center" style="max-width:100%;" >
+  <img src="https://github.com/philliprognerud/Reddit-Clone/blob/master/images/ukpm7qK.jpg" align="center" style="max-width:50%;" >
 </h1>
 
 <img src="https://github.com/philliprognerud/Reddit-Clone/blob/master/images/iyDM8pl7dX.gif" align="center" style="max-width:100%;" >
