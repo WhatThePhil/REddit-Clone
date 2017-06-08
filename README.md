@@ -14,19 +14,25 @@ Python 3.4 and up. We will be using modules such as pip, virtualenv, and Django.
 
 Here is how to get your development envionment up and running with the dependencies.
 
-Step one, install Python.
+1) install Python.
 
 ```
 https://www.python.org/
 ```
 
-Next, check everything it correctly installed. Open terminal and type:
+2) open terminal and type the command below. Result should look similar to mine.
 
 ```
 pip -V
-pip 9.0.1 from c:\users\phillip rognerud\appdata\local\programs\python\python36-32\lib\site-packages (python 3.6)
+Result: pip 9.0.1 from c:\users\phillip rognerud\appdata\local\programs\python\python36-32\lib\site-packages (python 3.6)
 ```
 
+3) open terminal and type the command below. Result should look similar to mine.
+
+```
+pip -V
+Result: pip 9.0.1 from c:\users\phillip rognerud\appdata\local\programs\python\python36-32\lib\site-packages (python 3.6)
+```
 End with an example of getting some data out of the system or using it for a little demo
 
 ## Running the tests
