@@ -1,6 +1,4 @@
-<p align="center">
-  <h1>Reddit Clone</h1>
-</p>
+<h1 align="center">Reddit Clone</h1>
 
 Created a clone of Reddit built on the Django framework and bootstrap. Site is fully functional and any user can sign up for an account, login, create posts, upvote and downvote posts.
 
