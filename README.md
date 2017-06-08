@@ -9,25 +9,22 @@ These instructions will get you a copy of the project up and running on your loc
 
 Python 3.4 and up. We will be using modules such as pip, virtualenv, and Django. 
 
-```
-C:\Windows\System32>pip -V
-pip 9.0.1 from c:\users\phillip rognerud\appdata\local\programs\python\python36-32\lib\site-packages (python 3.6)
-```
 
 ### Installing
 
-A step by step series of examples that tell you have to get a development env running
+Here is how to get your development envionment up and running with the dependencies.
 
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
+Step one, install Python.
 
 ```
-until finished
+https://www.python.org/
+```
+
+Next, check everything it correctly installed. Open terminal and type:
+
+```
+pip -V
+pip 9.0.1 from c:\users\phillip rognerud\appdata\local\programs\python\python36-32\lib\site-packages (python 3.6)
 ```
 
 End with an example of getting some data out of the system or using it for a little demo
