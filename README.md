@@ -1,6 +1,6 @@
 <h1 align="center"><strong>Reddit Clone</strong></h1>
 
-<img src="https://github.com/philliprognerud/Reddit-Clone/blob/master/images/iyDM8pl7dX.gif" align="center" style="max-width:100%; border-radius: 20px; box-shadow: 10px 10px 5px #888888;" >
+<img src="https://github.com/philliprognerud/Reddit-Clone/blob/master/images/iyDM8pl7dX.gif" align="center" style="border-radius: 20px; box-shadow: 10px 10px 5px #888888;" >
 
 <h2>Overview</h2>
 
