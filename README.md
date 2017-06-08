@@ -1,4 +1,6 @@
-<h1 align="center">Reddit Clone</h1>
+<h1 align="center">Reddit Clone
+  <img src="https://github.com/philliprognerud/Reddit-Clone/blob/master/images/iyDM8pl7dX.gif" align="center" style="max-width:100%;" >
+</h1>
 
 <img src="https://github.com/philliprognerud/Reddit-Clone/blob/master/images/iyDM8pl7dX.gif" align="center" style="max-width:100%;" >
 
