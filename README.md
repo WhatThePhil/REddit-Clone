@@ -20,11 +20,10 @@ Here is how to get your development envionment up and running with the dependenc
 https://www.python.org/
 ```
 
-2) Open terminal and type the command below. Result should look similar.
+2) Check Python install is good.
 
 ```
 Command: pip -V
-Result:  pip 9.0.1 from c:\users\...\python\python36-32\lib\site-packages (python 3.6)
 ```
 
 3) Install Django! Run the command below.
@@ -41,7 +40,7 @@ Command: python
 >>> print(django.get_version())
 ```
 
-4) Installing other dependecies.
+5) Installing other dependecy, used for static images.
 
 ```
 Command: pip install pillow
